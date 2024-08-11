@@ -1,6 +1,8 @@
 # Deploy-workflow-react-example
 
-This example shows how to deploy a React app to Kubernetes, using Argo CD.
+This example shows how to deploy a React app with Kubernetes, using Argo CD.
+
+The main repo is here: https://github.com/ahioros/workflow-react-example
 
 ## Prerequisites
 
