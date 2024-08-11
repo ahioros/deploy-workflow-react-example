@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: rdicidr
-        image: ahioros/rdicidr:10341261426
+        image: ahioros/rdicidr:10341361685
         ports:
         - containerPort: 3000
